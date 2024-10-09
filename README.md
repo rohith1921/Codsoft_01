@@ -15,4 +15,3 @@ navigation, services, testimonials, and a call to action.
 
 -> HTML
 -> CSS
-
