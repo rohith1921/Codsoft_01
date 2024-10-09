@@ -4,7 +4,7 @@ This project is a responsive landing page built using HTML and CSS. It is design
 
 # Features
 
--> Responsive Design: Optimized for various screen sizes including desktops, tablets, and mobile devices.
+-> Responsive Design: Optimized for various screen sizes including desktops, tablets, and mobile devices.       
 -> Smooth Scrolling: Navigation links allow smooth scrolling to different sections of the page.
 -> Clean Layout: Organized sections for clear presentation of content.
 -> CSS Styling: Custom styling for layout, typography, and interactive elements such as buttons and hover effects.
